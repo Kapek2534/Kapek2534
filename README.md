@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on website **Portfolio**
 
-- 🌱 I’m currently learning Javascript **Courses**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **szczyrba.kacper@o2.pl**
 
