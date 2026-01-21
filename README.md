@@ -1,12 +1,15 @@
 <div align="center">
   <table border="0" width="100%">
     <tr>
-      <td width="60%" valign="middle">
-        <h2 align="center">Hi! I'm Kacper👋</h2>
-        <p>
+      <td width="60%" align="center" valign="middle">
+        <h2>Hi! I'm Kacper 👋</h2>
+        <p align="center">
           I'm a student who loves building interactive web applications. I specialize in Frontend Development and I'm always looking to level up my skills. Recently, I've also started my journey with Kotlin.
         </p>
-        <h3 align="center">Connect with me:</h3>
+        <blockquote>
+          <b>I'm currently looking for new challenges and projects to join. Feel free to reach out!</b>
+        </blockquote>
+        <h3>Connect with me:</h3>
         <div align="center">
           <a href="mailto:szczyrba.kacper.web@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-E0E0E0?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail" />
@@ -19,9 +22,11 @@
             <img src="https://img.shields.io/badge/Instagram-E0E0E0?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" />
           </a>
         </div>
-      </td>
+        <br /> </td>
       <td width="40%" align="center" valign="middle">
+        <br />
         <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%" alt="Coding Gif" />
+        <br />
       </td>
     </tr>
   </table>
