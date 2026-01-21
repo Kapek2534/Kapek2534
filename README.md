@@ -35,6 +35,22 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 <br />
 <div align="center">
+  <table border="0">
+    <tr>
+      <td valign="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" />
+      </td>
+      <td valign="center">
+        <h2 style="margin: 0 20px;">Tech Stack</h2>
+      </td>
+      <td valign="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" style="transform: scaleX(-1);" />
+      </td>
+    </tr>
+  </table>
+</div>
+<br/>
+<div align="center">
   <table align="center">
     <thead>
       <tr>
